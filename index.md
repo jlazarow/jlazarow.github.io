@@ -14,7 +14,9 @@ focusing on generative models and 2D perception.
 
 ## Publications
 
-* **Cubify Anything: Scaling Indoor 3D Object Detection** [\[arXiv\]](https://arxiv.org/abs/2412.04458)<br>
+* **Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping** [\[arXiv\]](https://arxiv.org/abs/2505.23756)<br>
+  Justin Lazarow, Kai Kang, Afshin Dehghan
+* **Cubify Anything: Scaling Indoor 3D Object Detection** (CVPR 2025) [\[arXiv\]](https://arxiv.org/abs/2412.04458)<br>
   Justin Lazarow, David Griffiths, Gefen Kohavi, Francisco Crespo, Afshin Dehghan
 * **Instance Segmentation With Mask-Supervised Polygonal Boundary Transformers** (CVPR 2022) [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lazarow_Instance_Segmentation_With_Mask-Supervised_Polygonal_Boundary_Transformers_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/mlpc-ucsd/BoundaryFormer)<br>
   Justin Lazarow, Weijian Xu, Zhuowen Tu
